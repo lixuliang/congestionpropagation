@@ -1,7 +1,10 @@
 # congestionpropagation
-Please cite the following paper when using the code, the sample data is aggregated and added a random shift from original one.
+Please cite the following paper when using the code, the sample data is aggregated and added random shifts from original one.
+
 Author: Hoang Nguyen
+
 Email: dungbk04@gmail.com
+
 Paper: Nguyen, H., Liu, W. and Chen, F., 2017. Discovering congestion propagation patterns in spatio-temporal traffic data. IEEE Transactions on Big Data, 3(2), pp.169-180.
 
 @article{nguyen2017discovering,
